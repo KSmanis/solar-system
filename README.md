@@ -35,7 +35,7 @@ $ make clean
 ```
 
 ## Screenshots
-|![](screenshots/screenshot_1.png?raw=true)|![](screenshots/screenshot_2.png?raw=true)|![](screenshots/screenshot_3.png?raw=true)|
+|![](../assets/screenshots/screenshot_1.png?raw=true)|![](../assets/screenshots/screenshot_2.png?raw=true)|![](../assets/screenshots/screenshot_3.png?raw=true)|
 |---|---|---|
-|![](screenshots/screenshot_4.png?raw=true)|![](screenshots/screenshot_5.png?raw=true)|![](screenshots/screenshot_6.png?raw=true)|
-|![](screenshots/screenshot_7.png?raw=true)|![](screenshots/screenshot_8.png?raw=true)|![](screenshots/screenshot_9.png?raw=true)|
+|![](../assets/screenshots/screenshot_4.png?raw=true)|![](../assets/screenshots/screenshot_5.png?raw=true)|![](../assets/screenshots/screenshot_6.png?raw=true)|
+|![](../assets/screenshots/screenshot_7.png?raw=true)|![](../assets/screenshots/screenshot_8.png?raw=true)|![](../assets/screenshots/screenshot_9.png?raw=true)|
