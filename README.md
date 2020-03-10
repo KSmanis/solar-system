@@ -34,6 +34,9 @@ $ ./ss
 $ make clean
 ```
 
+## Demo
+![Demo](../assets/demos/demo.gif)
+
 ## Screenshots
 |![](../assets/screenshots/screenshot_1.png?raw=true)|![](../assets/screenshots/screenshot_2.png?raw=true)|![](../assets/screenshots/screenshot_3.png?raw=true)|
 |---|---|---|
