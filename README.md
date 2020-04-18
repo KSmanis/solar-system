@@ -35,10 +35,9 @@ $ make clean
 ```
 
 ## Demo
-![Demo](../assets/demos/demo.gif)
+<p align="center"><img alt="Demo" src="../assets/demos/demo.gif"></p>
 
 ## Screenshots
-|![](../assets/screenshots/screenshot_1.png?raw=true)|![](../assets/screenshots/screenshot_2.png?raw=true)|![](../assets/screenshots/screenshot_3.png?raw=true)|
-|---|---|---|
-|![](../assets/screenshots/screenshot_4.png?raw=true)|![](../assets/screenshots/screenshot_5.png?raw=true)|![](../assets/screenshots/screenshot_6.png?raw=true)|
-|![](../assets/screenshots/screenshot_7.png?raw=true)|![](../assets/screenshots/screenshot_8.png?raw=true)|![](../assets/screenshots/screenshot_9.png?raw=true)|
+<img src="../assets/screenshots/screenshot_1.png?raw=true" width="33%"><img src="../assets/screenshots/screenshot_2.png?raw=true" width="33%"><img src="../assets/screenshots/screenshot_3.png?raw=true" width="33%">
+<img src="../assets/screenshots/screenshot_4.png?raw=true" width="33%"><img src="../assets/screenshots/screenshot_5.png?raw=true" width="33%"><img src="../assets/screenshots/screenshot_6.png?raw=true" width="33%">
+<img src="../assets/screenshots/screenshot_7.png?raw=true" width="33%"><img src="../assets/screenshots/screenshot_8.png?raw=true" width="33%"><img src="../assets/screenshots/screenshot_9.png?raw=true" width="33%">
